@@ -15,6 +15,12 @@
 [![Sensor](https://img.shields.io/badge/Sensor-RGB--D--L--I--W--G-9333ea)](#31-fusion-modes)
 [![Platform](https://img.shields.io/badge/Platforms-Ground%20%7C%20Legged%20%7C%20Aerial-10b981)](#42-cross-platform-results)
 
+[![stars](https://img.shields.io/github/stars/sjtuyinjie/Ultra-Fusion.svg)](https://github.com/sjtuyinjie/Ultra-Fusion)
+[![forks](https://img.shields.io/github/forks/sjtuyinjie/Ultra-Fusion.svg)](https://github.com/sjtuyinjie/Ultra-Fusion)
+[![open issues](https://img.shields.io/github/issues-raw/sjtuyinjie/Ultra-Fusion)](https://github.com/sjtuyinjie/Ultra-Fusion/issues)
+[![issue resolution](https://img.shields.io/github/issues-closed-raw/sjtuyinjie/Ultra-Fusion)](https://github.com/sjtuyinjie/Ultra-Fusion/issues)
+
+
 </div>
 
 **Core contributors:** [Yihong Tian](https://github.com/maotian123), [Junjie Zhang](https://github.com/Zjj587), [Liuyang Li](https://github.com/Lurvelly), and [Jie Yin](https://sjtuyinjie.github.io/)*
